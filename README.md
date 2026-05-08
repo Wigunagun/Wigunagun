@@ -1,4 +1,4 @@
-# Hi, I'm Wiguna 👋
+ # Hi, I'm Wiguna 👋
 
 **Database Administrator · Data Practitioner · AI/ML Applied Use Cases**  
 📍 Jakarta, Indonesia · 🏛️ Indonesia National Single Window Agency, Ministry of Finance
@@ -67,7 +67,7 @@ Built an automated system to transcribe, classify, and summarise thousands of In
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wiguna%20Cahyana-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/wigunacahyana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wiguna%20-Cahyana-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/wigunacahyana)
 [![Email](https://img.shields.io/badge/Email-wiguna.cahyana%40kemenkeu.go.id-D14836?style=flat&logo=gmail)](mailto:wiguna.cahyana@kemenkeu.go.id)
 
 ---
